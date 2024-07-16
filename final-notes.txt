@@ -1,0 +1,2 @@
+I like that every time I use this, I learn something new!
+This time around, I learned how to use nano, how to switch from master to main branch, and practiced copying files.

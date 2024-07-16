@@ -1,0 +1,4 @@
+So far I have used:
+mkdir docs
+cd docs
+touch introduction.txt chapter1.txt chapter2.txt
